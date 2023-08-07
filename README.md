@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MirhatHamit Mirhat Hamit Çabuk
-- 👀 I’m interested in Hard Project
+- 👀 I’m interested in difficult projects
 - 🌱 I’m currently learning Front-End 
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me you can reach me on my gmail adress.
