@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/BEYmirbey25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beymirbey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Mirhat Hamit Çabuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirhat hamit çabuk" height="30" width="40" /></a>
+<a href="https://twitter.com/BEYmirbey25" target="blank"><img align="center" src="https://raw.githubusercontent.cohttps://www.linkedin.com/in/mirhat-hamit-%C3%A7abuk-505a12274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirhat hamit çabuk" height="30" width="40" /></a>
 <a href="https://instagram.com/mirhat_hamit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirhat_hamit" height="30" width="40" /></a>
 </p>
 
